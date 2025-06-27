@@ -7,8 +7,8 @@
 #define	_C_SCAN_H_
 
 // conf
-// sscanf / scanf
-#define C_SSCANF
+// compile with -DC_SSCANF to use sscanf instead of scanf
+
 // %[..]
 #define LENSCANS 10
 
